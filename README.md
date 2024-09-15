@@ -16,7 +16,7 @@
 
 ## Setup Instructions
 **Restore the SQL Database**:
-Import the SQL dump file located in the data/ folder into a MySQL database using the following command:
+- Import the SQL dump file located in the data/ folder into a MySQL database using the following command:
 
 mysql -u username -p sales < data/db_dump_version_2.sql
 
