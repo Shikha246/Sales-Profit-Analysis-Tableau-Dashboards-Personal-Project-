@@ -8,6 +8,12 @@
 - `images/`: Includes screenshots of the Tableau dashboards.
 - `wholedashboard_final.twbx`: Tableau packaged workbook containing the interactive dashboards.
 - `README.md`: Overview of the project.
+
+**Dashboard Features**:
+- Revenue by Market: Visualization of revenue and sales quantity for different regions.
+- Profit Trends: Displays profit trends over time.
+- Top Customers & Products: Highlights top customers and products by sales and revenue.
+
   
 ## Tableau Dashboard Images
 
