@@ -14,7 +14,17 @@
 - Profit Trends: Displays profit trends over time.
 - Top Customers & Products: Highlights top customers and products by sales and revenue.
 
-  
+## Setup Instructions
+**Restore the SQL Database**:
+Import the SQL dump file located in the data/ folder into a MySQL database using the following command:
+
+mysql -u username -p sales < data/db_dump_version_2.sql
+
+- Replace [username] with your actual MySQL username.
+
+**Open the Tableau Dashboard**:
+- Open the dashboard.twbx file in Tableau Desktop.
+- Ensure the database connection is updated with your local MySQL instance settings.
 ## Tableau Dashboard Images
 
 Revenue Analysis:
