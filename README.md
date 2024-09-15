@@ -8,3 +8,13 @@
 - `images/`: Includes screenshots of the Tableau dashboards.
 - `wholedashboard_final.twbx`: Tableau packaged workbook containing the interactive dashboards.
 - `README.md`: Overview of the project.
+  
+## Tableau Dashboard Images
+
+Revenue Analysis:
+
+![Revenue_Analysis](images/revenue_analysis.png)
+
+Profit Analysis:
+
+![Profit Analysis](images/profit_analysis.png)
