@@ -27,10 +27,10 @@ mysql -u username -p sales < data/db_dump_version_2.sql
 - Ensure the database connection is updated with your local MySQL instance settings.
 ## Tableau Dashboard Images
 
-Revenue Analysis:
+## Revenue Analysis:
 
 ![Revenue_Analysis](images/revenue_analysis.png)
 
-Profit Analysis:
+## Profit Analysis:
 
 ![Profit Analysis](images/profit_analysis.png)
